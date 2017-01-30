@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 488737879d5034faf869e982d5e14e81
+timeCreated: 1485547572
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bender
+  fontNames:
+  - Bender
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 45a67aa3f9a424cd0bce5da894e1248b, type: 3}
+  - {fileID: 12800000, guid: 07883d7bb611d40a5911dc6de8771f79, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

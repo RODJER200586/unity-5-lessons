@@ -1,0 +1,3456 @@
+fileFormatVersion: 2
+guid: f67ace991c46147898c2fb30afe05e6b
+timeCreated: 1485545663
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TinyToonsAdventuresBusterBustsLooseSheet1_0
+    21300002: TinyToonsAdventuresBusterBustsLooseSheet1_1
+    21300004: TinyToonsAdventuresBusterBustsLooseSheet1_2
+    21300006: TinyToonsAdventuresBusterBustsLooseSheet1_3
+    21300008: TinyToonsAdventuresBusterBustsLooseSheet1_4
+    21300010: TinyToonsAdventuresBusterBustsLooseSheet1_5
+    21300012: TinyToonsAdventuresBusterBustsLooseSheet1_6
+    21300014: TinyToonsAdventuresBusterBustsLooseSheet1_7
+    21300016: TinyToonsAdventuresBusterBustsLooseSheet1_8
+    21300018: TinyToonsAdventuresBusterBustsLooseSheet1_9
+    21300020: TinyToonsAdventuresBusterBustsLooseSheet1_10
+    21300022: TinyToonsAdventuresBusterBustsLooseSheet1_11
+    21300024: TinyToonsAdventuresBusterBustsLooseSheet1_12
+    21300026: TinyToonsAdventuresBusterBustsLooseSheet1_13
+    21300028: TinyToonsAdventuresBusterBustsLooseSheet1_14
+    21300030: TinyToonsAdventuresBusterBustsLooseSheet1_15
+    21300032: TinyToonsAdventuresBusterBustsLooseSheet1_16
+    21300034: TinyToonsAdventuresBusterBustsLooseSheet1_17
+    21300036: TinyToonsAdventuresBusterBustsLooseSheet1_18
+    21300038: TinyToonsAdventuresBusterBustsLooseSheet1_19
+    21300040: TinyToonsAdventuresBusterBustsLooseSheet1_20
+    21300042: TinyToonsAdventuresBusterBustsLooseSheet1_21
+    21300044: TinyToonsAdventuresBusterBustsLooseSheet1_22
+    21300046: TinyToonsAdventuresBusterBustsLooseSheet1_23
+    21300048: TinyToonsAdventuresBusterBustsLooseSheet1_24
+    21300050: TinyToonsAdventuresBusterBustsLooseSheet1_25
+    21300052: TinyToonsAdventuresBusterBustsLooseSheet1_26
+    21300054: TinyToonsAdventuresBusterBustsLooseSheet1_27
+    21300056: TinyToonsAdventuresBusterBustsLooseSheet1_28
+    21300058: TinyToonsAdventuresBusterBustsLooseSheet1_29
+    21300060: TinyToonsAdventuresBusterBustsLooseSheet1_30
+    21300062: TinyToonsAdventuresBusterBustsLooseSheet1_31
+    21300064: TinyToonsAdventuresBusterBustsLooseSheet1_32
+    21300066: TinyToonsAdventuresBusterBustsLooseSheet1_33
+    21300068: TinyToonsAdventuresBusterBustsLooseSheet1_34
+    21300070: TinyToonsAdventuresBusterBustsLooseSheet1_35
+    21300072: TinyToonsAdventuresBusterBustsLooseSheet1_36
+    21300074: TinyToonsAdventuresBusterBustsLooseSheet1_37
+    21300076: TinyToonsAdventuresBusterBustsLooseSheet1_38
+    21300078: TinyToonsAdventuresBusterBustsLooseSheet1_39
+    21300080: TinyToonsAdventuresBusterBustsLooseSheet1_40
+    21300082: TinyToonsAdventuresBusterBustsLooseSheet1_41
+    21300084: TinyToonsAdventuresBusterBustsLooseSheet1_42
+    21300086: TinyToonsAdventuresBusterBustsLooseSheet1_43
+    21300088: TinyToonsAdventuresBusterBustsLooseSheet1_44
+    21300090: TinyToonsAdventuresBusterBustsLooseSheet1_45
+    21300092: TinyToonsAdventuresBusterBustsLooseSheet1_46
+    21300094: TinyToonsAdventuresBusterBustsLooseSheet1_47
+    21300096: TinyToonsAdventuresBusterBustsLooseSheet1_48
+    21300098: TinyToonsAdventuresBusterBustsLooseSheet1_49
+    21300100: TinyToonsAdventuresBusterBustsLooseSheet1_50
+    21300102: TinyToonsAdventuresBusterBustsLooseSheet1_51
+    21300104: TinyToonsAdventuresBusterBustsLooseSheet1_52
+    21300106: TinyToonsAdventuresBusterBustsLooseSheet1_53
+    21300108: TinyToonsAdventuresBusterBustsLooseSheet1_54
+    21300110: TinyToonsAdventuresBusterBustsLooseSheet1_55
+    21300112: TinyToonsAdventuresBusterBustsLooseSheet1_56
+    21300114: TinyToonsAdventuresBusterBustsLooseSheet1_57
+    21300116: TinyToonsAdventuresBusterBustsLooseSheet1_58
+    21300118: TinyToonsAdventuresBusterBustsLooseSheet1_59
+    21300120: TinyToonsAdventuresBusterBustsLooseSheet1_60
+    21300122: TinyToonsAdventuresBusterBustsLooseSheet1_61
+    21300124: TinyToonsAdventuresBusterBustsLooseSheet1_62
+    21300126: TinyToonsAdventuresBusterBustsLooseSheet1_63
+    21300128: TinyToonsAdventuresBusterBustsLooseSheet1_64
+    21300130: TinyToonsAdventuresBusterBustsLooseSheet1_65
+    21300132: TinyToonsAdventuresBusterBustsLooseSheet1_66
+    21300134: TinyToonsAdventuresBusterBustsLooseSheet1_67
+    21300136: TinyToonsAdventuresBusterBustsLooseSheet1_68
+    21300138: TinyToonsAdventuresBusterBustsLooseSheet1_69
+    21300140: TinyToonsAdventuresBusterBustsLooseSheet1_70
+    21300142: TinyToonsAdventuresBusterBustsLooseSheet1_71
+    21300144: TinyToonsAdventuresBusterBustsLooseSheet1_72
+    21300146: TinyToonsAdventuresBusterBustsLooseSheet1_73
+    21300148: TinyToonsAdventuresBusterBustsLooseSheet1_74
+    21300150: TinyToonsAdventuresBusterBustsLooseSheet1_75
+    21300152: TinyToonsAdventuresBusterBustsLooseSheet1_76
+    21300154: TinyToonsAdventuresBusterBustsLooseSheet1_77
+    21300156: TinyToonsAdventuresBusterBustsLooseSheet1_78
+    21300158: TinyToonsAdventuresBusterBustsLooseSheet1_79
+    21300160: TinyToonsAdventuresBusterBustsLooseSheet1_80
+    21300162: TinyToonsAdventuresBusterBustsLooseSheet1_81
+    21300164: TinyToonsAdventuresBusterBustsLooseSheet1_82
+    21300166: TinyToonsAdventuresBusterBustsLooseSheet1_83
+    21300168: TinyToonsAdventuresBusterBustsLooseSheet1_84
+    21300170: TinyToonsAdventuresBusterBustsLooseSheet1_85
+    21300172: TinyToonsAdventuresBusterBustsLooseSheet1_86
+    21300174: TinyToonsAdventuresBusterBustsLooseSheet1_87
+    21300176: TinyToonsAdventuresBusterBustsLooseSheet1_88
+    21300178: TinyToonsAdventuresBusterBustsLooseSheet1_89
+    21300180: TinyToonsAdventuresBusterBustsLooseSheet1_90
+    21300182: TinyToonsAdventuresBusterBustsLooseSheet1_91
+    21300184: TinyToonsAdventuresBusterBustsLooseSheet1_92
+    21300186: TinyToonsAdventuresBusterBustsLooseSheet1_93
+    21300188: TinyToonsAdventuresBusterBustsLooseSheet1_94
+    21300190: TinyToonsAdventuresBusterBustsLooseSheet1_95
+    21300192: TinyToonsAdventuresBusterBustsLooseSheet1_96
+    21300194: TinyToonsAdventuresBusterBustsLooseSheet1_97
+    21300196: TinyToonsAdventuresBusterBustsLooseSheet1_98
+    21300198: TinyToonsAdventuresBusterBustsLooseSheet1_99
+    21300200: TinyToonsAdventuresBusterBustsLooseSheet1_100
+    21300202: TinyToonsAdventuresBusterBustsLooseSheet1_101
+    21300204: TinyToonsAdventuresBusterBustsLooseSheet1_102
+    21300206: TinyToonsAdventuresBusterBustsLooseSheet1_103
+    21300208: TinyToonsAdventuresBusterBustsLooseSheet1_104
+    21300210: TinyToonsAdventuresBusterBustsLooseSheet1_105
+    21300212: TinyToonsAdventuresBusterBustsLooseSheet1_106
+    21300214: TinyToonsAdventuresBusterBustsLooseSheet1_107
+    21300216: TinyToonsAdventuresBusterBustsLooseSheet1_108
+    21300218: TinyToonsAdventuresBusterBustsLooseSheet1_109
+    21300220: TinyToonsAdventuresBusterBustsLooseSheet1_110
+    21300222: TinyToonsAdventuresBusterBustsLooseSheet1_111
+    21300224: TinyToonsAdventuresBusterBustsLooseSheet1_112
+    21300226: TinyToonsAdventuresBusterBustsLooseSheet1_113
+    21300228: TinyToonsAdventuresBusterBustsLooseSheet1_114
+    21300230: TinyToonsAdventuresBusterBustsLooseSheet1_115
+    21300232: TinyToonsAdventuresBusterBustsLooseSheet1_116
+    21300234: TinyToonsAdventuresBusterBustsLooseSheet1_117
+    21300236: TinyToonsAdventuresBusterBustsLooseSheet1_118
+    21300238: TinyToonsAdventuresBusterBustsLooseSheet1_119
+    21300240: TinyToonsAdventuresBusterBustsLooseSheet1_120
+    21300242: TinyToonsAdventuresBusterBustsLooseSheet1_121
+    21300244: TinyToonsAdventuresBusterBustsLooseSheet1_122
+    21300246: TinyToonsAdventuresBusterBustsLooseSheet1_123
+    21300248: TinyToonsAdventuresBusterBustsLooseSheet1_124
+    21300250: TinyToonsAdventuresBusterBustsLooseSheet1_125
+    21300252: TinyToonsAdventuresBusterBustsLooseSheet1_126
+    21300254: TinyToonsAdventuresBusterBustsLooseSheet1_127
+    21300256: TinyToonsAdventuresBusterBustsLooseSheet1_128
+    21300258: TinyToonsAdventuresBusterBustsLooseSheet1_129
+    21300260: TinyToonsAdventuresBusterBustsLooseSheet1_130
+    21300262: TinyToonsAdventuresBusterBustsLooseSheet1_131
+    21300264: TinyToonsAdventuresBusterBustsLooseSheet1_132
+    21300266: TinyToonsAdventuresBusterBustsLooseSheet1_133
+    21300268: TinyToonsAdventuresBusterBustsLooseSheet1_134
+    21300270: TinyToonsAdventuresBusterBustsLooseSheet1_135
+    21300272: TinyToonsAdventuresBusterBustsLooseSheet1_136
+    21300274: TinyToonsAdventuresBusterBustsLooseSheet1_137
+    21300276: TinyToonsAdventuresBusterBustsLooseSheet1_138
+    21300278: TinyToonsAdventuresBusterBustsLooseSheet1_139
+    21300280: TinyToonsAdventuresBusterBustsLooseSheet1_140
+    21300282: TinyToonsAdventuresBusterBustsLooseSheet1_141
+    21300284: TinyToonsAdventuresBusterBustsLooseSheet1_142
+    21300286: TinyToonsAdventuresBusterBustsLooseSheet1_143
+    21300288: TinyToonsAdventuresBusterBustsLooseSheet1_144
+    21300290: TinyToonsAdventuresBusterBustsLooseSheet1_145
+    21300292: TinyToonsAdventuresBusterBustsLooseSheet1_146
+    21300294: TinyToonsAdventuresBusterBustsLooseSheet1_147
+    21300296: TinyToonsAdventuresBusterBustsLooseSheet1_148
+    21300298: TinyToonsAdventuresBusterBustsLooseSheet1_149
+    21300300: TinyToonsAdventuresBusterBustsLooseSheet1_150
+    21300302: TinyToonsAdventuresBusterBustsLooseSheet1_151
+    21300304: TinyToonsAdventuresBusterBustsLooseSheet1_152
+    21300306: TinyToonsAdventuresBusterBustsLooseSheet1_153
+    21300308: TinyToonsAdventuresBusterBustsLooseSheet1_154
+    21300310: TinyToonsAdventuresBusterBustsLooseSheet1_155
+    21300312: TinyToonsAdventuresBusterBustsLooseSheet1_156
+    21300314: TinyToonsAdventuresBusterBustsLooseSheet1_157
+    21300316: TinyToonsAdventuresBusterBustsLooseSheet1_158
+    21300318: TinyToonsAdventuresBusterBustsLooseSheet1_159
+    21300320: TinyToonsAdventuresBusterBustsLooseSheet1_160
+    21300322: TinyToonsAdventuresBusterBustsLooseSheet1_161
+    21300324: TinyToonsAdventuresBusterBustsLooseSheet1_162
+    21300326: TinyToonsAdventuresBusterBustsLooseSheet1_163
+    21300328: TinyToonsAdventuresBusterBustsLooseSheet1_164
+    21300330: TinyToonsAdventuresBusterBustsLooseSheet1_165
+    21300332: TinyToonsAdventuresBusterBustsLooseSheet1_166
+    21300334: TinyToonsAdventuresBusterBustsLooseSheet1_167
+    21300336: TinyToonsAdventuresBusterBustsLooseSheet1_168
+    21300338: TinyToonsAdventuresBusterBustsLooseSheet1_169
+    21300340: TinyToonsAdventuresBusterBustsLooseSheet1_170
+    21300342: TinyToonsAdventuresBusterBustsLooseSheet1_171
+    21300344: TinyToonsAdventuresBusterBustsLooseSheet1_172
+    21300346: TinyToonsAdventuresBusterBustsLooseSheet1_173
+    21300348: TinyToonsAdventuresBusterBustsLooseSheet1_174
+    21300350: TinyToonsAdventuresBusterBustsLooseSheet1_175
+    21300352: TinyToonsAdventuresBusterBustsLooseSheet1_176
+    21300354: TinyToonsAdventuresBusterBustsLooseSheet1_177
+    21300356: TinyToonsAdventuresBusterBustsLooseSheet1_178
+    21300358: TinyToonsAdventuresBusterBustsLooseSheet1_179
+    21300360: TinyToonsAdventuresBusterBustsLooseSheet1_180
+    21300362: TinyToonsAdventuresBusterBustsLooseSheet1_181
+    21300364: TinyToonsAdventuresBusterBustsLooseSheet1_182
+    21300366: TinyToonsAdventuresBusterBustsLooseSheet1_183
+    21300368: TinyToonsAdventuresBusterBustsLooseSheet1_184
+    21300370: TinyToonsAdventuresBusterBustsLooseSheet1_185
+    21300372: TinyToonsAdventuresBusterBustsLooseSheet1_186
+    21300374: TinyToonsAdventuresBusterBustsLooseSheet1_187
+    21300376: TinyToonsAdventuresBusterBustsLooseSheet1_188
+    21300378: TinyToonsAdventuresBusterBustsLooseSheet1_189
+    21300380: TinyToonsAdventuresBusterBustsLooseSheet1_190
+    21300382: TinyToonsAdventuresBusterBustsLooseSheet1_191
+    21300384: TinyToonsAdventuresBusterBustsLooseSheet1_192
+    21300386: TinyToonsAdventuresBusterBustsLooseSheet1_193
+    21300388: TinyToonsAdventuresBusterBustsLooseSheet1_194
+    21300390: TinyToonsAdventuresBusterBustsLooseSheet1_195
+    21300392: TinyToonsAdventuresBusterBustsLooseSheet1_196
+    21300394: TinyToonsAdventuresBusterBustsLooseSheet1_197
+    21300396: TinyToonsAdventuresBusterBustsLooseSheet1_198
+    21300398: TinyToonsAdventuresBusterBustsLooseSheet1_199
+    21300400: TinyToonsAdventuresBusterBustsLooseSheet1_200
+    21300402: TinyToonsAdventuresBusterBustsLooseSheet1_201
+    21300404: TinyToonsAdventuresBusterBustsLooseSheet1_202
+    21300406: TinyToonsAdventuresBusterBustsLooseSheet1_203
+    21300408: TinyToonsAdventuresBusterBustsLooseSheet1_204
+    21300410: TinyToonsAdventuresBusterBustsLooseSheet1_205
+    21300412: TinyToonsAdventuresBusterBustsLooseSheet1_206
+    21300414: TinyToonsAdventuresBusterBustsLooseSheet1_207
+    21300416: TinyToonsAdventuresBusterBustsLooseSheet1_208
+    21300418: TinyToonsAdventuresBusterBustsLooseSheet1_209
+    21300420: TinyToonsAdventuresBusterBustsLooseSheet1_210
+    21300422: TinyToonsAdventuresBusterBustsLooseSheet1_211
+    21300424: TinyToonsAdventuresBusterBustsLooseSheet1_212
+    21300426: TinyToonsAdventuresBusterBustsLooseSheet1_213
+    21300428: TinyToonsAdventuresBusterBustsLooseSheet1_214
+    21300430: TinyToonsAdventuresBusterBustsLooseSheet1_215
+    21300432: TinyToonsAdventuresBusterBustsLooseSheet1_216
+    21300434: TinyToonsAdventuresBusterBustsLooseSheet1_217
+    21300436: TinyToonsAdventuresBusterBustsLooseSheet1_218
+    21300438: TinyToonsAdventuresBusterBustsLooseSheet1_219
+    21300440: TinyToonsAdventuresBusterBustsLooseSheet1_220
+    21300442: TinyToonsAdventuresBusterBustsLooseSheet1_221
+    21300444: TinyToonsAdventuresBusterBustsLooseSheet1_222
+    21300446: TinyToonsAdventuresBusterBustsLooseSheet1_223
+    21300448: TinyToonsAdventuresBusterBustsLooseSheet1_224
+    21300450: TinyToonsAdventuresBusterBustsLooseSheet1_225
+    21300452: TinyToonsAdventuresBusterBustsLooseSheet1_226
+    21300454: TinyToonsAdventuresBusterBustsLooseSheet1_227
+    21300456: TinyToonsAdventuresBusterBustsLooseSheet1_228
+    21300458: TinyToonsAdventuresBusterBustsLooseSheet1_229
+    21300460: TinyToonsAdventuresBusterBustsLooseSheet1_230
+    21300462: TinyToonsAdventuresBusterBustsLooseSheet1_231
+    21300464: TinyToonsAdventuresBusterBustsLooseSheet1_232
+    21300466: TinyToonsAdventuresBusterBustsLooseSheet1_233
+    21300468: TinyToonsAdventuresBusterBustsLooseSheet1_234
+    21300470: TinyToonsAdventuresBusterBustsLooseSheet1_235
+    21300472: TinyToonsAdventuresBusterBustsLooseSheet1_236
+    21300474: TinyToonsAdventuresBusterBustsLooseSheet1_237
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 64
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Tizen
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Samsung TV
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_0
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1686
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1686
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_2
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1686
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_3
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1686
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_4
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1686
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_5
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1686
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_6
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1686
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_7
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1686
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_8
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1686
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_9
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1686
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_10
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1686
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_11
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1686
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_12
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1627
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_13
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1627
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_14
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1627
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_15
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1627
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_16
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1627
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_17
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1627
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_18
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1627
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_19
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1627
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_20
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1569
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_21
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1569
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_22
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1569
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_23
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1569
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_24
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1569
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_25
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1569
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_26
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1569
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_27
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1569
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_28
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1510
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_29
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1510
+        width: 22
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_30
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1510
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_31
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1510
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_32
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1510
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_33
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1510
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_34
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1510
+        width: 22
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_35
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1510
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_36
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1439
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_37
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1439
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_38
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1439
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_39
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1439
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_40
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1439
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_41
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1439
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_42
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1439
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_43
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1439
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_44
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1382
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_45
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1382
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_46
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1382
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_47
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1382
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_48
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1382
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_49
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1382
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_50
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1382
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_51
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1382
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_52
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1343
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_53
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1343
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_54
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1343
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_55
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1343
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_56
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1343
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_57
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1343
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_58
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1300
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_59
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1300
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_60
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1300
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_61
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1300
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_62
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1300
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_63
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1300
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_64
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1244
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_65
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1244
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_66
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1244
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_67
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1244
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_68
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1244
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_69
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1244
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_70
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1244
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_71
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1244
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_72
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1207
+        width: 53
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_73
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1207
+        width: 49
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_74
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1207
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_75
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1207
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_76
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1207
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_77
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1207
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_78
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1207
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_79
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1207
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_80
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1207
+        width: 49
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_81
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1207
+        width: 53
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_82
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1157
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_83
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1157
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_84
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1157
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_85
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1157
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1101
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_87
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1101
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_88
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1101
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_89
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1101
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_90
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1101
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_91
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1101
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_92
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1046
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_93
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1046
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_94
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1046
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_95
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1046
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_96
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1046
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_97
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1046
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_98
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 993
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_99
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 999
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_100
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 993
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_101
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 994
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_102
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1000
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_103
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 994
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_104
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 938
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_105
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 938
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_106
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 944
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_107
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 944
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_108
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 938
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_109
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 938
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_110
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 882
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_111
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 884
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_112
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 884
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_113
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 882
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_114
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 843
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_115
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 843
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_116
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 843
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_117
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 843
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_118
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 843
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_119
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 843
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_120
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 795
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_121
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 795
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_122
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 795
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_123
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 795
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_124
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 795
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_125
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 795
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_126
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 754
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_127
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 754
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_128
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 754
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_129
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 754
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_130
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 699
+        width: 57
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_131
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 699
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_132
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 699
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_133
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 699
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_134
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 699
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_135
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 699
+        width: 57
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_136
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 629
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_137
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 629
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_138
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 629
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_139
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 629
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_140
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 629
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_141
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 629
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_142
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 629
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_143
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 629
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_144
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 577
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_145
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 577
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_146
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 577
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_147
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 577
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_148
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 577
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_149
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 577
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_150
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 521
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_151
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 521
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_152
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 521
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_153
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 521
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_154
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 521
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_155
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 521
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_156
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 521
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_157
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 521
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_158
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 461
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_159
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 461
+        width: 24
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_160
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 461
+        width: 24
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_161
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 461
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_162
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 461
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_163
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 461
+        width: 24
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_164
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 461
+        width: 24
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_165
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 461
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_166
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 403
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_167
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 403
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_168
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 403
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_169
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 403
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_170
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 403
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_171
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 403
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_172
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 347
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_173
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 347
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_174
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 347
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_175
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 347
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_176
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 347
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_177
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 347
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_178
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 310
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_179
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 310
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_180
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 310
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_181
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 310
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_182
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 310
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_183
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 310
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_184
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 310
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_185
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 310
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_186
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 271
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_187
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 271
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_188
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 271
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_189
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 271
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_190
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 271
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_191
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 271
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_192
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 271
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_193
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 271
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_194
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 214
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_195
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 214
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_196
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 214
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_197
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 214
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_198
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 214
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_199
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 214
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_200
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 214
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_201
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 214
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_202
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 214
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_203
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 214
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_204
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 214
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_205
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 214
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_206
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 155
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_207
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 155
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_208
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 155
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_209
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 155
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_210
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 155
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_211
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 155
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_212
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 155
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_213
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 155
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_214
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 155
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_215
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 155
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_216
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 120
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_217
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 120
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_218
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_219
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_220
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 120
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_221
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 120
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_222
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 64
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_223
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 64
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_224
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 64
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_225
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 64
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_226
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 64
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_227
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 64
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_228
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 64
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_229
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 64
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_230
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 7
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_231
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 7
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_232
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 7
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_233
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 7
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_234
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 7
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_235
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 7
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_236
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 7
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TinyToonsAdventuresBusterBustsLooseSheet1_237
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 7
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
